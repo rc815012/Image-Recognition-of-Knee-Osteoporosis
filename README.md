@@ -10,7 +10,6 @@ This repository serves as a backup for the **Osteoporosis Knee X-ray Dataset**. 
 ## 1. Original Source Information
 
 * **Title**: Osteoporosis Knee X-ray Dataset
-* **Author**: Stevepython
 * **Year Published**: 2023
 * **Original Link**: [Kaggle Dataset](https://www.kaggle.com/datasets/stevepython/osteoporosis-knee-xray-dataset)
 
